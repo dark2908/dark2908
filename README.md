@@ -1,1 +1,6 @@
-
+- Hi, i'm Bao Phong (dark2908)
+- Study veterinary medicine at Ho Chi Minh City University of Agriculture and Forestry branch campus in Gia Lai
+- I like study bug/exploit about iOS/macOS
+- I copy bug/exploit from the internet and make it's work on my devices
+- I'm not a dev/editor.
+- Information about me: https://dark2908.github.io/darkinformation/ (html code)
